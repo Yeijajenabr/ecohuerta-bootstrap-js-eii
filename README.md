@@ -32,5 +32,7 @@ No necesitas Node.js, npm ni un servidor para los ejercicios propuestos. Puedes 
 - JavaScript nativo (sin frameworks).
 - Bootstrap **5.3.8** mediante CDN oficial de jsDelivr.
 - HTML5 y un archivo CSS adicional.
+- Git 
+- Github
 
 Documentación de consulta: [JavaScript en MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) y [Bootstrap 5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/).
